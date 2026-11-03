@@ -1,9 +1,9 @@
 {
-  "version": "3.4.0 正式版",
-  "versionCode": 30400,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.0/AutoTrigger-Next-v3.4.0.zip",
+  "version": "3.4.1 正式版",
+  "versionCode": 30401,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.1/AutoTrigger-Next-v3.4.1.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "56183efa5e15c7576634484a90dfd814235bdefa2bef4b88382f4ec623b8b362",
-  "size": 7617618,
-  "notes": "# AutoTrigger-Next 3.4.0 正式版\n\n- 新增超频页面，仅 PLC110 开放控制；其他机型置灰并显示不兼容水印。\n- 集成刷新率档位、按应用规则、OSC 和动效限频控制，无卡密界面。\n- 重排超频界面，精简按钮，折叠高级设置与诊断，适配深浅主题和不同屏宽。\n- 接入 GitHub 版本检查，在顶部版本号后和 Next 模块卡片提示新版，点击前往 GitHub 下载。\n- 安装包、版本清单与更新说明在打包成功后同步至公开发布仓库。\n\n超频内核组件保留原始加载校验；内核元数据为 6.6.111，与原模块说明中的 6.6.118 存在差异。尚未进行 Android 真机验证。\n"
+  "sha256": "dcb372127c46f97383b15c87ac608ad8c2601013cabac117b808b56d540836ea",
+  "size": 8283909,
+  "notes": "# AutoTrigger-Next 3.4.1 正式版\n\n- 超频仅支持 PLC110 + ColorOS 17；其他机型及 ColorOS 15、16 页面置灰，后端与启动脚本同步拒绝控制。\n- 移除 60Hz，保留 120/144/160Hz；首次刷入默认 120Hz，升级保留已有有效档位。\n- 新增强制更新：确认新版后停止任务、锁定全部功能，仅保留 GitHub 下载更新入口；断网、刷新和重启保持锁定，安装新版后恢复。\n- 修复管理 ROOT 的权限桥接 Provider 缺失问题，支持同签名覆盖修复，保留已有授权与配置。\n\n强制更新机制自本版本起生效，无法追加入此前发布的旧包。未取得有效新版清单时，网络失败不会锁定。超频内核组件保留原始校验，尚未进行 Android 真机验证。\n"
 }
