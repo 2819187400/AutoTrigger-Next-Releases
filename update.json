@@ -1,9 +1,9 @@
 {
-  "version": "3.4.2 正式版",
-  "versionCode": 30402,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.2/AutoTrigger-Next-v3.4.2.zip",
+  "version": "3.4.3 正式版",
+  "versionCode": 30403,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.3/AutoTrigger-Next-v3.4.3.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "dc5daa78528ef9699764a4c1e9bf6ae6e2ac3c36f124fa6cf3593a3c679fd0bb",
-  "size": 8309439,
-  "notes": "- 文件列表时间增加年份。\n- 优化操作提示，修复已知问题。\n"
+  "sha256": "d8f0eba8ca1d92175a6909c06c1176402800733fee0c987eb8bf68db00f887d1",
+  "size": 8315093,
+  "notes": "- 超频默认关闭，需手动开启。\n- 修复更新检测延迟。\n"
 }
