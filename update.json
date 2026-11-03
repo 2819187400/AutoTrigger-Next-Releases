@@ -1,0 +1,9 @@
+{
+  "version": "3.3.6 正式版",
+  "versionCode": 30306,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.3.6/AutoTrigger-Next-v3.3.6.zip",
+  "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
+  "sha256": "796f66a758b3f72b2258b9ebf7f2b41ab861cf0fb8450d64db329d802bac97ea",
+  "size": 7491622,
+  "notes": "# AutoTrigger-Next 3.3.6\n\n现有正式安装包归档。当前未发布的超频与在线更新源码修改不包含在此包中。\n"
+}
