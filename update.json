@@ -1,9 +1,9 @@
 {
-  "version": "3.4.1 正式版",
-  "versionCode": 30401,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.1/AutoTrigger-Next-v3.4.1.zip",
+  "version": "3.4.2 正式版",
+  "versionCode": 30402,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.2/AutoTrigger-Next-v3.4.2.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "dcb372127c46f97383b15c87ac608ad8c2601013cabac117b808b56d540836ea",
-  "size": 8283909,
-  "notes": "# AutoTrigger-Next 3.4.1 正式版\n\n- 超频仅支持 PLC110 + ColorOS 17；其他机型及 ColorOS 15、16 页面置灰，后端与启动脚本同步拒绝控制。\n- 移除 60Hz，保留 120/144/160Hz；首次刷入默认 120Hz，升级保留已有有效档位。\n- 新增强制更新：确认新版后停止任务、锁定全部功能，仅保留 GitHub 下载更新入口；断网、刷新和重启保持锁定，安装新版后恢复。\n- 修复管理 ROOT 的权限桥接 Provider 缺失问题，支持同签名覆盖修复，保留已有授权与配置。\n\n强制更新机制自本版本起生效，无法追加入此前发布的旧包。未取得有效新版清单时，网络失败不会锁定。超频内核组件保留原始校验，尚未进行 Android 真机验证。\n"
+  "sha256": "dc5daa78528ef9699764a4c1e9bf6ae6e2ac3c36f124fa6cf3593a3c679fd0bb",
+  "size": 8309439,
+  "notes": "- 文件列表时间增加年份。\n- 优化操作提示，修复已知问题。\n"
 }
