@@ -1,9 +1,9 @@
 {
-  "version": "3.4.4 正式版",
-  "versionCode": 30404,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.4.4/AutoTrigger-Next-v3.4.4.zip",
+  "version": "3.5.0 正式版",
+  "versionCode": 30500,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.5.0/AutoTrigger-Next-v3.5.0.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "d2666b569b4689163862ad1294c70031dafbc613378eb6302a73e3a1f3375165",
-  "size": 8320395,
-  "notes": "- 修复强制更新后无法安装更新包的问题。\n- 安装时显示日志，完成后可重启。\n"
+  "sha256": "8c6764b5eacaa015dc0f60382ac359eaab897e36b2299cf119745d2b0ae771f3",
+  "size": 8448818,
+  "notes": "- 新增 DRM 管理，支持通用和指定应用。\n- 改善功耗读取兼容性。\n- 修复主页部分设备信息不显示。\n- 新增升级后首次进入的更新公告。\n"
 }
