@@ -1,9 +1,11 @@
 {
-  "version": "3.5.5 正式版",
-  "versionCode": 30505,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.5.5/AutoTrigger-Next-v3.5.5.zip",
+  "edition": "public",
+  "minimumVersionCode": 30600,
+  "version": "3.6.0 公开版",
+  "versionCode": 30600,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.6.0/AutoTrigger-Next-v3.6.0-public.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "ce6dba374a01e05413164e88fc1605a6a55119f45ae1459b59edd3af03fa8387",
-  "size": 8514581,
-  "notes": "- 新增文件追踪，支持开始、停止和清空记录。\n- 监控目录改为手动设置。\n- 日志直接保存到 Download 文件夹。\n- 优化使用体验，修复已知问题。\n"
+  "sha256": "e4afb9c125659d9d43b24d931a478b8cddfd62cd61ce0bf67c7160447a557076",
+  "size": 8485533,
+  "notes": "- 优化文件追踪和日志导出。\n- 改善页面操作体验。\n- 修复已知问题。\n"
 }
