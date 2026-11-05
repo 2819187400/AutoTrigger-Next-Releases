@@ -1,9 +1,9 @@
 {
-  "version": "3.5.0 正式版",
-  "versionCode": 30500,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.5.0/AutoTrigger-Next-v3.5.0.zip",
+  "version": "3.5.5 正式版",
+  "versionCode": 30505,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.5.5/AutoTrigger-Next-v3.5.5.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "8c6764b5eacaa015dc0f60382ac359eaab897e36b2299cf119745d2b0ae771f3",
-  "size": 8448818,
-  "notes": "- 新增 DRM 管理，支持通用和指定应用。\n- 改善功耗读取兼容性。\n- 修复主页部分设备信息不显示。\n- 新增升级后首次进入的更新公告。\n"
+  "sha256": "ce6dba374a01e05413164e88fc1605a6a55119f45ae1459b59edd3af03fa8387",
+  "size": 8514581,
+  "notes": "- 新增文件追踪，支持开始、停止和清空记录。\n- 监控目录改为手动设置。\n- 日志直接保存到 Download 文件夹。\n- 优化使用体验，修复已知问题。\n"
 }
