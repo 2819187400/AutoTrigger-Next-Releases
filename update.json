@@ -1,11 +1,11 @@
 {
   "edition": "public",
-  "minimumVersionCode": 30600,
-  "version": "3.6.0 公开版",
-  "versionCode": 30600,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.6.0/AutoTrigger-Next-v3.6.0-public.zip",
+  "minimumVersionCode": 30601,
+  "version": "3.6.1 公开版",
+  "versionCode": 30601,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.6.1/AutoTrigger-Next-v3.6.1-public.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "e4afb9c125659d9d43b24d931a478b8cddfd62cd61ce0bf67c7160447a557076",
-  "size": 8485533,
-  "notes": "- 优化文件追踪和日志导出。\n- 改善页面操作体验。\n- 修复已知问题。\n"
+  "sha256": "d7bc0c257b527fb5814f19fd15133ebfbef80db07b2b0420ffc1f87cb7e211d8",
+  "size": 8487544,
+  "notes": "- 优化界面图标和设置页面。\n- 新增管理 ROOT 使用提示。\n- 更新页面增加更新公告。\n- 修复已知问题。\n"
 }
