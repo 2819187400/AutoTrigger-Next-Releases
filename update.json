@@ -1,11 +1,11 @@
 {
   "edition": "public",
-  "minimumVersionCode": 30602,
-  "version": "3.6.2 公开版",
-  "versionCode": 30602,
-  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.6.2/AutoTrigger-Next-v3.6.2-public.zip",
+  "minimumVersionCode": 30603,
+  "version": "3.6.3 公开版",
+  "versionCode": 30603,
+  "zipUrl": "https://github.com/2819187400/AutoTrigger-Next-Releases/releases/download/v3.6.3/AutoTrigger-Next-v3.6.3-public.zip",
   "changelog": "https://raw.githubusercontent.com/2819187400/AutoTrigger-Next-Releases/main/CHANGELOG.md",
-  "sha256": "bbfee9b0e8afd6be4808a82e6dbe4af5a4bb6e0cb212b0a007c9ad149a4b702f",
-  "size": 8467431,
-  "notes": "- 优化使用体验。\n- 修复已知问题。\n"
+  "sha256": "e5532fda0725ed3f6901719c1b7d8f7f215657e21f043053c17cad8f3327717d",
+  "size": 2117,
+  "notes": "感谢大家使用 NEXT。很遗憾，由于不可抗力，NEXT 模块即日起永久停止使用。\n\n如需继续使用，请转至微微微正式版。\n\n谢谢大家一路以来的支持，我们有缘再见！\n"
 }
